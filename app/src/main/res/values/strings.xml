@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Location</string>
+    <string name="add_fab">Location</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="accuracy">accuracy</string>
+    <string name="address">address</string>
+</resources>
